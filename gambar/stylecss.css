@@ -1,0 +1,37 @@
+@charset"utf-8";
+#wrapper{
+    width:960px;
+    margin:auto;
+    border:#F00 1px solid;
+}header{
+    height:120px;
+    width: 960px;
+     float:left;
+     background: #CCC;
+}
+nav{
+    height:40px;
+    width:960;
+    float:left;
+    background:#333;
+}
+#wrapper #content{
+    width:620px;
+    float:left;
+    padding:10px;
+}
+#wrapper #sidebar{
+    width:300px;
+    float:left;
+    padding:10px;
+}
+footer{
+    float:left;
+    background: #CCC;
+    width:960px;
+}
+footer #coolumn{
+    width:300px;
+    padding:10px;
+    float:left;
+}
